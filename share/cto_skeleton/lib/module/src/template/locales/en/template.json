@@ -1,0 +1,7 @@
+{
+  "TITLE": "[Your title]",
+  "DESCRIPTION": "<h1>[Your description]</h1>",
+  "SAMPLE_PLAIN": "[Your plaintext example]",
+  "SAMPLE_ENCRYPTED": "[Your ciphertext example]",
+  "SAMPLE_KEY": "[Your secret key example]"
+}

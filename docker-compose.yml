@@ -1,0 +1,11 @@
+version: '3'
+services:
+ cto_dev:
+  container_name: cto_dev
+  hostname: cto_dev
+  volumes:
+   - ./share/:/root/share
+  build:
+   context: .
+  image: cto_dev_image:latest
+  tty: true
